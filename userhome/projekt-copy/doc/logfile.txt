@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+D:\StudentskePriecinky\4C\Kubasakova\greenfoot\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\greenfoot.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\bluejcore.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\bluejeditor.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\bluejext2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-jupiter-5.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-jupiter-api-5.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-jupiter-engine-5.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-jupiter-migrationsupport-5.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-jupiter-params-5.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-commons-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-console-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-console-standalone-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-engine-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-launcher-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-reporting-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-runner-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-suite-api-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-platform-testkit-1.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-quickcheck-core-0.9.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\junit-vintage-engine-5.5.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\hamcrest-core-1.3.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\bluej.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\classgraph-4.8.90.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\diffutils-1.2.1.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\commons-logging-api-1.1.2.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\jl1.0.1.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\opencsv-2.3.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\xom-1.2.9.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\lang-stride.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\nsmenufx-2.1.8.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\richtextfx-fat-0.9.0.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\guava-17.0.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\httpclient-4.1.1.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\httpcore-4.1.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\httpmime-4.1.1.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.base.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.controls.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.fxml.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.graphics.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.media.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.properties.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.swing.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\greenfoot\lib\javafx\lib\javafx.web.jar;D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy
+-d
+D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\Jablko.java
+<---- end of javadoc command ---->
+Loading source file D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\Jablko.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+Standard Doclet version 11.0.10
+Building tree for all the packages and classes...
+Generating D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc\Jablko.html...
+Generating D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc\package-summary.html...
+Generating D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc\allclasses.html...
+Generating D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc\allclasses.html...
+Generating D:\StudentskePriecinky\4C\Kubasakova\greenfoot\userhome\projekt-copy\doc\index.html...
+2 warnings
